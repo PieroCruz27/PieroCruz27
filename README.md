@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 </p>
 
 ---
@@ -42,15 +43,6 @@
   - **Websites** (bots personalizados para interactuar en tiempo real con los usuarios).
 - **Desarrollo ágil** (Scrum, Kanban)
 - **Buenas prácticas de seguridad en aplicaciones web**
-
----
-
-### 📈 Estadísticas de GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PieroCruz27&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieroCruz27&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
