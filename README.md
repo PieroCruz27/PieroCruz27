@@ -1,16 +1,64 @@
-<h1 align="center">Hola 👋, soy BRANDOM PIERO</h1>
-<h3 align="center">Un apasionado desarrollador web de [Tu País]</h3>
+<h1 align="center">¡Hola 👋! Soy BRANDOM PIERO</h1>
+<h3 align="center">Desarrollador Backend, Fullstack y Creador de Chatbots - Desde Perú 🇵🇪</h3>
 
-- 🔭 Actualmente estoy trabajando en [Nombre del Proyecto]  
-- 🌱 Actualmente estoy aprendiendo **Spring Boot, Angular, Docker**  
-- 👨‍💻 Todos mis proyectos están disponibles en [Tu Portafolio o GitHub]  
-- 📫 Cómo contactarme: [tu-email@gmail.com]  
-- ⚡ Fun fact: ¡Me encanta el café y programar de noche!
+---
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+### 👨‍💻 Sobre mí:
+
+- 🔥 Desarrollador especializado en **Spring Boot** y **Java**.
+- 🤖 Experto en **desarrollo de chatbots** para **WhatsApp** y **páginas web**.
+- 💻 Conocimientos sólidos en Microservicios, APIs RESTful y Arquitecturas Backend modernas.
+- 🌱 Apasionado por aprender y utilizar las últimas tecnologías del mercado.
+- 🎯 Orientado a la creación de **soluciones de software escalables, seguras y eficientes**.
+- 📍 Basado en Perú, disponible para proyectos internacionales.
+
+---
+
+### 🛠️ Tecnologías que domino:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
 </p>
+
+---
+
+### 📚 Conocimientos adicionales:
+
+- **Bases de Datos Relacionales y NoSQL:** SQL, MySQL, MongoDB
+- **Automatización con Microsoft Excel avanzado**
+- **Diseño y desarrollo de Microservicios**
+- **Integración de APIs y Servicios Web**
+- **Desarrollo de Chatbots inteligentes** para:
+  - **WhatsApp** (automatización de atención al cliente, ventas y soporte).
+  - **Websites** (bots personalizados para interactuar en tiempo real con los usuarios).
+- **Desarrollo ágil** (Scrum, Kanban)
+- **Buenas prácticas de seguridad en aplicaciones web**
+
+---
+
+### 📈 Estadísticas de GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PieroCruz27&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieroCruz27&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 ¡Conectemos!
+
+- ✉️ brandompierocastillocruz@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com) *(Agrega tu enlace aquí)*
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! ⭐
