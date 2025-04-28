@@ -49,7 +49,7 @@
 ### 📫 ¡Conectemos!
 
 - ✉️ brandompierocastillocruz@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com) *(Agrega tu enlace aquí)*
+- 💼 [LinkedIn](https://www.linkedin.com)
 
 ---
 
