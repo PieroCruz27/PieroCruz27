@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy BRANDOM PIERO</h1>
+<h3 align="center">Un apasionado desarrollador web de [Tu País]</h3>
 
-<!--
-**PieroCruz27/PieroCruz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estoy trabajando en [Nombre del Proyecto]  
+- 🌱 Actualmente estoy aprendiendo **Spring Boot, Angular, Docker**  
+- 👨‍💻 Todos mis proyectos están disponibles en [Tu Portafolio o GitHub]  
+- 📫 Cómo contactarme: [tu-email@gmail.com]  
+- ⚡ Fun fact: ¡Me encanta el café y programar de noche!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
