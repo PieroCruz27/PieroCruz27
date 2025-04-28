@@ -39,7 +39,7 @@
 - **Diseño y desarrollo de Microservicios**
 - **Integración de APIs y Servicios Web**
 - **Desarrollo de Chatbots inteligentes** para:
-  - **WhatsApp** (automatización de atención al cliente, ventas y soporte).
+  - **WhatsApp,Facebook,Instagram,etc** (automatización de atención al cliente, ventas y soporte).
   - **Websites** (bots personalizados para interactuar en tiempo real con los usuarios).
 - **Desarrollo ágil** (Scrum, Kanban)
 - **Buenas prácticas de seguridad en aplicaciones web**
