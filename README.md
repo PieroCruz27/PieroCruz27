@@ -49,7 +49,7 @@
 ### 📫 ¡Conectemos!
 
 - ✉️ brandompierocastillocruz@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brandom-piero-castillo-cruz-014691302/)
 
 ---
 
