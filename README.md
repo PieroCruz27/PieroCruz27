@@ -6,7 +6,7 @@
 ### 👨‍💻 Sobre mí:
 
 - 🔥 Desarrollador especializado en **Spring Boot** y **Java**.
-- 🤖 Experto en **desarrollo de chatbots** para **WhatsApp** y **páginas web**.
+- 🤖 Experto en **desarrollo de chatbots** para **WhatsApp** , **Telegram** ,**Correos** y **páginas web**.
 - 💻 Conocimientos sólidos en Microservicios, APIs RESTful y Arquitecturas Backend modernas.
 - 🌱 Apasionado por aprender y utilizar las últimas tecnologías del mercado.
 - 🎯 Orientado a la creación de **soluciones de software escalables, seguras y eficientes**.
