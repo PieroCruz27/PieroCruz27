@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋! Soy BRANDOM PIERO</h1>
-<h3 align="center">Desarrollador Backend, Fullstack y Creador de Chatbots - Desde Perú 🇵🇪</h3>
+<h3 align="center">Desarrollador Backend, Fullstack y Creador de Chatbots-Desde Perú 🇵🇪</h3>
 
 ---
 
